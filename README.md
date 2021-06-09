@@ -1,4 +1,4 @@
-### Hi, I'm Eline 👋 
+### Olá, Meu nome é Eline 👋 
 
 Sou uma estudante de Engenharia da Computação e sempre fui uma criança curiosa em saber como as coisas funcionavam. Atualmente em paralelo a faculdade estou aprimorando meus conhecimentos sobre desenvolvimento web.
 
