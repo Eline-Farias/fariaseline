@@ -4,7 +4,6 @@ Sou uma estudante de Engenharia da Computação e sempre fui uma criança curios
 
 Cada vez mais empolgada com a carreira que estou seguindo, considero a tecnologia como uma grande parte na caminhada para conseguirmos chegar em uma sociedade cada vez mais desenvolvida.
 
-### Encontre-me na web 🌎: <a href="https://www.linkedin.com/in/eline-farias-7773b7129/" target="_blank">LinkedIn</a> |  <a href="
-https://www.instagram.com/farias_eline/" target="_blank">Instagram</a>
+### Encontre-me na web 🌎: <a href="https://www.linkedin.com/in/eline-farias-7773b7129/" target="_blank">LinkedIn</a> |  <a href="https://www.instagram.com/farias_eline/" target="_blank">Instagram</a>
 
 <!-- Emojis utilizados https://www.webfx.com/tools/emoji-cheat-sheet/-->
