@@ -15,7 +15,7 @@ Cada vez mais empolgada com a carreira que estou seguindo, considero a tecnologi
   <img align="center" alt="eline-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="eline-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="eline-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="eline-gif" src="img/gituser.gif">
+  <img height="100em" align="right" alt="eline-gif" src="img/gituser.gif">
 </div>
 
 ##
