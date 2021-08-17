@@ -22,5 +22,5 @@ Cada vez mais empolgada com a carreira que estou seguindo, considero a tecnologi
 ### Encontre-me na web :earth_africa: <a href="https://www.linkedin.com/in/eline-farias/" target="_blank">LinkedIn</a> |  <a href="https://www.instagram.com/farias_eline/" target="_blank">Instagram</a>
 ##
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation]()
 <!-- Emojis utilizados https://www.webfx.com/tools/emoji-cheat-sheet/-->
