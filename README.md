@@ -1,13 +1,17 @@
 # Olá, Meu nome é Eline 👋🏾 👩🏾‍💻
 
 <div>
-<img align="left" alt="eline-octacat" height="160em" width="190em" src="img/octacat.gif">
-<div>
-Sou uma estudante de Engenharia da Computação e sempre fui uma criança curiosa em saber como as coisas funcionavam. Atualmente em paralelo a faculdade estou aprimorando meus conhecimentos sobre desenvolvimento web.
-
-Cada vez mais empolgada com a carreira que estou seguindo, considero a tecnologia como uma grande parte na caminhada para conseguirmos chegar em uma sociedade cada vez mais desenvolvida.
-<div>
-<div>
+  <img align="left" alt="eline-octacat" height="160em" width="190em" src="img/octacat.gif">
+  <div>
+    <p>
+      <i>S</i>ou uma estudante de Engenharia da Computação e sempre fui uma criança curiosa em saber como as coisas funcionavam.
+    Atualmente em paralelo a faculdade estou aprimorando meus conhecimentos sobre desenvolvimento web.
+    </p>
+    <p>
+    Cada vez mais empolgada com a carreira que estou seguindo, considero a tecnologia como uma grande parte na caminhada para conseguirmos chegar em uma sociedade cada vez mais       desenvolvida.
+    </P>
+  </div>
+</div>
 
 ##
 
@@ -25,9 +29,6 @@ Cada vez mais empolgada com a carreira que estou seguindo, considero a tecnologi
 ##
 ### Encontre-me na web 🌎: <a href="https://www.linkedin.com/in/eline-farias/" target="_blank">LinkedIn</a> |  <a href="https://www.instagram.com/farias_eline/" target="_blank">Instagram</a>
 ##
-<!--
-<div>
-<img align="center" alt="eline-snake" height="auto" width="auto" src="img/github-user-contribution.svg">
-</div>-->
-  ![Snake animation](https://github.com/ElineFarias/ElineFarias/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/ElineFarias/ElineFarias/blob/output/github-contribution-grid-snake.svg)
 <!-- Emojis utilizados https://www.webfx.com/tools/emoji-cheat-sheet/-->
