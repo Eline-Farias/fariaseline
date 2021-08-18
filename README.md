@@ -22,6 +22,6 @@ Cada vez mais empolgada com a carreira que estou seguindo, considero a tecnologi
 ##
 
 <div>
-<img align="center" alt="eline-snake" height="250em" width="290em" src="img/github-user-contribution.svg">
+<img align="center" alt="eline-snake" height="auto" width="auto" src="img/github-user-contribution.svg">
 </div>
 <!-- Emojis utilizados https://www.webfx.com/tools/emoji-cheat-sheet/-->
