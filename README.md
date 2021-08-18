@@ -1,4 +1,4 @@
-### Olá, Meu nome é Eline 👋 
+### Olá, Meu nome é Eline 👋🏾 👩🏾‍💻
 
 Sou uma estudante de Engenharia da Computação e sempre fui uma criança curiosa em saber como as coisas funcionavam. Atualmente em paralelo a faculdade estou aprimorando meus conhecimentos sobre desenvolvimento web.
 
@@ -15,11 +15,10 @@ Cada vez mais empolgada com a carreira que estou seguindo, considero a tecnologi
   <img align="center" alt="eline-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="eline-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="eline-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img height="100em" align="right" alt="eline-gif" src="img/gituser.gif">
 </div>
 
 ##
-### Encontre-me na web :earth_africa: <a href="https://www.linkedin.com/in/eline-farias/" target="_blank">LinkedIn</a> |  <a href="https://www.instagram.com/farias_eline/" target="_blank">Instagram</a>
+### Encontre-me na web 🌎: <a href="https://www.linkedin.com/in/eline-farias/" target="_blank">LinkedIn</a> |  <a href="https://www.instagram.com/farias_eline/" target="_blank">Instagram</a>
 ##
 
 ![Snake animation](https://github.com/ElineFarias/ElineFarias/blob/main/img/snake.svg)
