@@ -25,9 +25,9 @@ Cada vez mais empolgada com a carreira que estou seguindo, considero a tecnologi
 ##
 ### Encontre-me na web 🌎: <a href="https://www.linkedin.com/in/eline-farias/" target="_blank">LinkedIn</a> |  <a href="https://www.instagram.com/farias_eline/" target="_blank">Instagram</a>
 ##
-
+<!--
 <div>
 <img align="center" alt="eline-snake" height="auto" width="auto" src="img/github-user-contribution.svg">
-</div>
-  ![Snake animation](https://github.com/elinefarias/elinefarias/blob/output/github-contribution-grid-snake.svg)
+</div>-->
+  ![Snake animation](https://github.com/ElineFarias/ElineFarias/blob/output/github-contribution-grid-snake.svg)
 <!-- Emojis utilizados https://www.webfx.com/tools/emoji-cheat-sheet/-->
