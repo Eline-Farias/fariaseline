@@ -1,9 +1,13 @@
 # Olá, Meu nome é Eline 👋🏾 👩🏾‍💻
 
+<div>
+<img align="left" alt="eline-octacat" height="auto" width="auto" src="immg/octacat.gif">
+<div>
 Sou uma estudante de Engenharia da Computação e sempre fui uma criança curiosa em saber como as coisas funcionavam. Atualmente em paralelo a faculdade estou aprimorando meus conhecimentos sobre desenvolvimento web.
 
 Cada vez mais empolgada com a carreira que estou seguindo, considero a tecnologia como uma grande parte na caminhada para conseguirmos chegar em uma sociedade cada vez mais desenvolvida.
-
+<div>
+<div>
 ##
 
 <a href="https://beacons.ai/elinefarias">
