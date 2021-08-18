@@ -7,8 +7,8 @@ Cada vez mais empolgada com a carreira que estou seguindo, considero a tecnologi
 ##
 
 <a href="https://beacons.ai/elinefarias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elinefarias&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elinefarias&layout=compact&langs_count=7&theme=outrun"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=elinefarias&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elinefarias&layout=compact&langs_count=7&theme=vue"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -22,6 +22,6 @@ Cada vez mais empolgada com a carreira que estou seguindo, considero a tecnologi
 ##
 
 <div>
-<img align="center" alt="eline-CSS" height="30" width="40" src="img/github-user-contribution.svg">
+<img align="center" alt="eline-snake" height="190px" width="250px" src="img/github-user-contribution.svg">
 </div>
 <!-- Emojis utilizados https://www.webfx.com/tools/emoji-cheat-sheet/-->
