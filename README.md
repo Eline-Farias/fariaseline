@@ -4,11 +4,11 @@
   <img align="left" alt="eline-octacat" height="160em" width="190em" src="img/octacat.gif">
   <div>
     <p>
-      <i>S</i>ou uma estudante de Engenharia da Computação e sempre fui uma criança curiosa em saber como as coisas funcionavam.
-    Atualmente em paralelo a faculdade estou aprimorando meus conhecimentos sobre desenvolvimento web.
+      <i>E</i>studante de Engenharia da Computação, sempre fui uma criança curiosa em saber como as coisas funcionavam.
+    Atualmente em paralelo a faculdade estou aprimorando meus conhecimentos sobre desenvolvimento web e data science.
     </p>
     <p>
-    Cada vez mais empolgada com a carreira que estou seguindo, considero a tecnologia como uma grande parte na caminhada para conseguirmos chegar em uma sociedade cada vez mais       desenvolvida.
+    Cada vez mais empolgada com a carreira que estou seguindo, considero a tecnologia como uma grande parte na caminhada para conseguirmos chegar em uma sociedade cada vez mais desenvolvida.
     </P>
   </div>
 </div>
