@@ -4,11 +4,10 @@
   <img align="left" alt="eline-octacat" height="160em" width="190em" src="img/octacat.gif">
   <div>
     <p>
-      <i>E</i>studante de Engenharia da Computação, sempre fui uma criança curiosa em saber como as coisas funcionavam.
-    Atualmente em paralelo a faculdade estou aprimorando meus conhecimentos sobre desenvolvimento web e data science.
-    </p>
+      <i>E</i>sEntusiasta pelo mundo da programação e cultura maker, acadêmica de engenharia de computação, pesquisadora com certificado de resiliência e perseverança, e uma (má) enxadrista.
     <p>
-    Cada vez mais empolgada com a carreira que estou seguindo, considero a tecnologia como uma grande parte na caminhada para conseguirmos chegar em uma sociedade cada vez mais desenvolvida.
+     Uso a tecnologia como ferramenta para materializar minha criatividade na resolução de problemas.
+    </p>
     </P>
   </div>
 </div>
