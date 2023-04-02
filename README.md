@@ -4,7 +4,7 @@
   <img align="left" alt="eline-octacat" height="160em" width="190em" src="img/octacat.gif">
   <div>
     <p>
-      <i>E</i>ntusiasta pelo mundo da programação e cultura maker, acadêmica de engenharia de computação, pesquisadora com certificado de resiliência e perseverança, e uma (má) enxadrista.
+      <i>E</i>ntusiasta pelo mundo da programação e cultura maker, acadêmica de engenharia de computação, pesquisadora com certificado de perseverança.
     <p>
      Uso a tecnologia como ferramenta para materializar minha criatividade na resolução de problemas.
     </p>
