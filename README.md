@@ -4,11 +4,11 @@
   <img align="left" alt="eline-octacat" height="160em" width="190em" src="img/octacat.gif">
   <div>
     <p>
-      <i>E</i>ntusiasta pelo mundo da programação e cultura maker, acadêmica de engenharia de computação, pesquisadora com certificado de perseverança.
-    <p>
-     Uso a tecnologia como ferramenta para materializar minha criatividade na resolução de problemas.
+      Olá! Sou a Eline, uma entusiasta do mundo da programação e cultura maker. Como acadêmica de engenharia de computação e pesquisadora com certificado de perseverança, uso a tecnologia como uma ferramenta para materializar minha criatividade e resolver problemas.
     </p>
-    </P>
+    <p>
+      Aqui, compartilho projetos, estudos e descobertas relacionados às minhas paixões. Junte-se a mim nesta jornada emocionante!
+    </p>
   </div>
 </div>
 
