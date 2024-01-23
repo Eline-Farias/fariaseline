@@ -49,9 +49,6 @@
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=elinefarias&show_icons=true&theme=vue&include_all_commits=true&count_private=true)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=elinefarias&layout=compact&langs_count=7&theme=vue)
 
-## 🐍 Cobrinha de Contribuições
-
-![Cobrinha de Contribuições](https://github.com/ElineFarias/ElineFarias/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Adicione emojis e personalizações conforme desejar! 🌟🚀🔥 -->
 
