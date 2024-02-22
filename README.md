@@ -3,15 +3,15 @@
   
   <img align="center" alt="eline-octacat" height="120em" width="150em" src="img/octacat.gif">
   
-  <h2>🚀 Cientista de Dados e Desenvolvedora Web em Evolução 📈</h2>
-  <p>Bem-vindo(a) ao meu perfil! Meu mundo é a interseção entre a Ciência de Dados e o Desenvolvimento Web. Com paixão pela tecnologia e em vias de concluir minha formação em engenharia de computação, estou embarcando em uma jornada emocionante como Cientista de Dados e Desenvolvedora Web. Minha busca por soluções criativas é impulsionada pela minha perseverança incansável.</p>
+  <h2>🚀 Engenheira de dados e Desenvolvedora Web em Evolução 📈</h2>
+  <p>Bem-vindo(a) ao meu perfil! Meu mundo é a interseção entre a Dados e  Desenvolvimento Web. Com paixão pela tecnologia e em vias de concluir minha formação em engenharia de computação, estou embarcando em uma jornada emocionante como Engenheira de dados e Desenvolvedora Web. Minha busca por soluções criativas é impulsionada pela minha perseverança incansável.</p>
 
-  <p>Enquanto mergulho no universo da Ciência de Dados, também me aventuro nas maravilhas do desenvolvimento web. Você pode explorar meus repositórios no GitHub, como <a href="https://github.com/elinefarias/disciplina-tecnologias-web">disciplina-tecnologias-web</a> , <a href="https://github.com/elinefarias/disciplina-topicos-especiais-em-telecomunicacoes">disciplina-topicos-especiais-em-telecomunicacoes</a> e <a href="https://github.com/elinefarias/projetos-do-curso-desenvolvimento-web-udemy">projetos-do-curso-desenvolvimento-web-udemy</a>, para acompanhar minha jornada em constante evolução.</p>
+  <p>Enquanto mergulho no universo dos Dados, também me aventuro nas maravilhas do desenvolvimento web. Você pode explorar meus repositórios no GitHub, como <a href="https://github.com/elinefarias/disciplina-tecnologias-web">disciplina-tecnologias-web</a> , <a href="https://github.com/elinefarias/disciplina-topicos-especiais-em-telecomunicacoes">disciplina-topicos-especiais-em-telecomunicacoes</a>,  <a href="https://github.com/elinefarias/projetos-do-curso-desenvolvimento-web-udemy">projetos-do-curso-desenvolvimento-web-udemy</a> e <a href="https://github.com/elinefarias/estudos-python"> estudos-python</a>,  para acompanhar minha jornada em constante evolução.</p>
 </div>
 
 ## 💡 Explorando Possibilidades
 
-🔍 Estou dedicando meu aprendizado à Ciência de Dados, aplicando habilidades analíticas e algoritmos inteligentes para obter insights valiosos dos dados.
+🔍 Estou dedicando meu aprendizado tanto na análise e interpretação de dados, quanto na construção de sistemas robustos para gerenciamento e processamento de dados. Acredito que a combinação dessas habilidades é essencial para criar soluções eficazes em ambientes de dados complexos.
 
 🌐 Também estou imersa no fascinante mundo do Desenvolvimento Web, explorando a criação de interfaces interativas e funcionais que unem design e tecnologia.
 
