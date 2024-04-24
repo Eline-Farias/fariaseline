@@ -1,19 +1,33 @@
 <div align="center">
-  <h1>👋🏾 Olá, sou a Eline! 👩🏾‍💻</h1>
+  <h1>👋🏾 Olá, sou a Eline!  🌟</h1>
   
   <img align="center" alt="eline-octacat" height="120em" width="150em" src="img/octacat.gif">
   
   <h2>🚀 Engenheira de dados e Desenvolvedora Web em Evolução 📈</h2>
-  <p>Bem-vindo(a) ao meu perfil! Meu mundo é a interseção entre a Dados e  Desenvolvimento Web. Com paixão pela tecnologia e em vias de concluir minha formação em engenharia de computação, estou embarcando em uma jornada emocionante como Engenheira de dados e Desenvolvedora Web. Minha busca por soluções criativas é impulsionada pela minha perseverança incansável.</p>
-
-  <p>Enquanto mergulho no universo dos Dados, também me aventuro nas maravilhas do desenvolvimento web. Você pode explorar meus repositórios no GitHub, como <a href="https://github.com/elinefarias/geolocalizacao-de-cilentes-python.git">Projeto-de-Geolocalização-com-Pyhon</a>,  <a href="https://github.com/elinefarias/disciplina-tecnologias-web">disciplina-tecnologias-web</a>, <a href="https://github.com/elinefarias/disciplina-topicos-especiais-em-telecomunicacoes">disciplina-topicos-especiais-em-telecomunicacoes</a>,  <a href="https://github.com/elinefarias/projetos-do-curso-desenvolvimento-web-udemy">projetos-do-curso-desenvolvimento-web-udemy</a> e <a href="https://github.com/elinefarias/estudos-python"> estudos-python</a>,  para acompanhar minha jornada em constante evolução.</p>
+  <h4>Bem-vindo(a) ao meu perfil! Meu mundo é a interseção entre Dados e Desenvolvimento Web. Emergida nesse mundo Tech e em vias de concluir minha formação em engenharia de computação, estou embarcando em uma jornada emocionante como Engenheira de dados e Desenvolvedora Web. Minha busca por soluções criativas é impulsionada pela minha curiosidade e perseverança.</h4>
 </div>
+
+<br>
+
+## 👩🏾‍💻  Convido você a explorar alguns dos meus projetos no GitHub
+<p>Acompanhe minha jornada em constante evolução!</p>
+<ul>
+  <li><a href="https://github.com/elinefarias/geolocalizacao-de-cilentes-python.git">Projeto de Geolocalização com Python</a></li>
+  <li><a href="https://github.com/elinefarias/disciplina-tecnologias-web">Projetos de Desenvolvimento Web</a></li>
+  <li><a href="https://github.com/elinefarias/disciplina-topicos-especiais-em-telecomunicacoes">Projetos com Reconhecimento de Padrões</a></li>
+  <li><a href="https://github.com/elinefarias/projetos-do-curso-desenvolvimento-web-udemy">Projetos do Curso de Desenvolvimento Web Full Stack da Udemy</a></li>
+  <li><a href="https://github.com/elinefarias/formacao-datawarehouse-Redshift-BigQuery-SnowFlake.git">Formação Data Warehouse: Redshift, BigQuery e SnowFlake</a></li>
+</ul>
+
+<br>
 
 ## 💡 Explorando Possibilidades
 
 🔍 Estou dedicando meu aprendizado tanto na análise e interpretação de dados, quanto na construção de sistemas robustos para gerenciamento e processamento de dados. Acredito que a combinação dessas habilidades é essencial para criar soluções eficazes em ambientes de dados complexos.
 
 🌐 Também estou imersa no fascinante mundo do Desenvolvimento Web, explorando a criação de interfaces interativas e funcionais que unem design e tecnologia.
+
+<br>
 
 ## 🛠️ Ferramentas e Habilidades
 <p align="center">
@@ -38,11 +52,15 @@
   <img alt="eline-seaborn" height="30" width="40" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg">
 </p>
 
+<br>
+
 ## 🌐 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/elinefarias)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle)](https://kaggle.com/elinefarias)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram)](https://instagram.com/farias_eline)
+
+<br>
 
 ## 📊 Estatísticas e Línguas
 
