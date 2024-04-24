@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋🏾 Olá, sou a Eline!  🌟</h1>
+  <h1>👋🏾 Olá, sou a Eline!</h1>
   
   <img align="center" alt="eline-octacat" height="120em" width="150em" src="img/octacat.gif">
   
